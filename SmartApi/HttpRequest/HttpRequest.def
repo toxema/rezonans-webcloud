@@ -1,0 +1,6 @@
+; HttpRequest.def : Declares the module parameters for the DLL.
+
+LIBRARY      "HttpRequest"
+
+EXPORTS
+    ; Explicit exports can go here

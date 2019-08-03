@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<CrossReferences xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="2.42.138.0">
+  <Categories>
+    <Category Name="AlarmViewer">
+      <Items />
+    </Category>
+    <Category Name="Alias">
+      <Items />
+    </Category>
+    <Category Name="AliasInstanceDataItem">
+      <Items />
+    </Category>
+    <Category Name="DatabaseService">
+      <Items />
+    </Category>
+    <Category Name="DatabaseViewer">
+      <Items />
+    </Category>
+    <Category Name="DataLogger">
+      <Items />
+    </Category>
+    <Category Name="Expression">
+      <Items />
+    </Category>
+    <Category Name="Font">
+      <Items>
+        <Item Target="HAVA_YAPMAMA_ZAMANI.Text" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="HAVA_YAPMAMA_ZAMANI.AnalogNumeric" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="HAVA_YAPMAMA_ZAMANI.Text1" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="HAVA_YAPMAMA_ZAMANI.Button" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="HAVA_YAPMAMA_ZAMANI.Button1" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+      </Items>
+    </Category>
+    <Category Name="GlobalDataItem">
+      <Items>
+        <Item Target="HAVA_YAPMAMA_ZAMANI.AnalogNumeric" TargetProperty="Value" Source="Tags.HAVA_YAPMAMA_ZAMANI" />
+      </Items>
+    </Category>
+    <Category Name="IntegratorSwapActiveProjectAction">
+      <Items />
+    </Category>
+    <Category Name="InvalidAction">
+      <Items />
+    </Category>
+    <Category Name="Object">
+      <Items />
+    </Category>
+    <Category Name="Recipe">
+      <Items />
+    </Category>
+    <Category Name="Renderable">
+      <Items>
+        <Item Target="HAVA_YAPMAMA_ZAMANI.Button1" Source="-2103005791_Normal.bmp" />
+        <Item Target="HAVA_YAPMAMA_ZAMANI.Button1" Source="-2103005791_Pressed.bmp" />
+        <Item Target="HAVA_YAPMAMA_ZAMANI.Button1" Source="-2103005791_Disabled.bmp" />
+      </Items>
+    </Category>
+    <Category Name="Report">
+      <Items />
+    </Category>
+    <Category Name="Screen">
+      <Items>
+        <Item xsi:type="ActionItem" Target="HAVA_YAPMAMA_ZAMANI.Button" TargetProperty="Actions" Source="ANA_EKRAN" Event="Click" Action="Show Screen" Param="Default" />
+        <Item xsi:type="ActionItem" Target="HAVA_YAPMAMA_ZAMANI.Button1" TargetProperty="Actions" Source="WebSetting" Event="Click" Action="Show Screen" Param="Default" />
+        <Item xsi:type="ScreenIDItem" ScreenID="">
+          <ScreenName>HAVA_YAPMAMA_ZAMANI</ScreenName>
+        </Item>
+        <Item xsi:type="ScreenObjectsCrossReferenceItem">
+          <ObjectsCount>6</ObjectsCount>
+          <ScreenName>HAVA_YAPMAMA_ZAMANI</ScreenName>
+        </Item>
+      </Items>
+    </Category>
+    <Category Name="Script">
+      <Items />
+    </Category>
+    <Category Name="StructuredTag">
+      <Items />
+    </Category>
+    <Category Name="Symbol">
+      <Items>
+        <Item xsi:type="SymbolItem" Target="HAVA_YAPMAMA_ZAMANI.Picture" Source="milangozlogo" Width="175" Height="57" IsAnimated="false" />
+      </Items>
+    </Category>
+    <Category Name="TextLibrary">
+      <Items />
+    </Category>
+    <Category Name="TrendViewer">
+      <Items />
+    </Category>
+    <Category Name="Uri">
+      <Items />
+    </Category>
+  </Categories>
+</CrossReferences>

@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartApi", "SmartApi\SmartApi.csproj", "{7FA92E61-6422-4D76-870F-071DAF87892F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Windows Mobile 5.0 Pocket PC SDK (ARMV4I) = Debug|Windows Mobile 5.0 Pocket PC SDK (ARMV4I)
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Windows Mobile 5.0 Pocket PC SDK (ARMV4I) = Release|Windows Mobile 5.0 Pocket PC SDK (ARMV4I)
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FA92E61-6422-4D76-870F-071DAF87892F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FA92E61-6422-4D76-870F-071DAF87892F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FA92E61-6422-4D76-870F-071DAF87892F}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{7FA92E61-6422-4D76-870F-071DAF87892F}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{7FA92E61-6422-4D76-870F-071DAF87892F}.Debug|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).ActiveCfg = Debug|Any CPU
+		{7FA92E61-6422-4D76-870F-071DAF87892F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FA92E61-6422-4D76-870F-071DAF87892F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FA92E61-6422-4D76-870F-071DAF87892F}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{7FA92E61-6422-4D76-870F-071DAF87892F}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{7FA92E61-6422-4D76-870F-071DAF87892F}.Release|Windows Mobile 5.0 Pocket PC SDK (ARMV4I).ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

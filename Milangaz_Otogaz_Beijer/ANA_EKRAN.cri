@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<CrossReferences xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="2.42.138.0">
+  <Categories>
+    <Category Name="AlarmViewer">
+      <Items>
+        <Item xsi:type="AlarmViewerItem" Target="ANA_EKRAN.AlarmViewer" ServerID="" ServerPort="0" MaximumAlarmEvents="100" />
+      </Items>
+    </Category>
+    <Category Name="Alias">
+      <Items />
+    </Category>
+    <Category Name="AliasInstanceDataItem">
+      <Items />
+    </Category>
+    <Category Name="DatabaseService">
+      <Items />
+    </Category>
+    <Category Name="DatabaseViewer">
+      <Items />
+    </Category>
+    <Category Name="DataLogger">
+      <Items />
+    </Category>
+    <Category Name="Expression">
+      <Items />
+    </Category>
+    <Category Name="Font">
+      <Items>
+        <Item Target="ANA_EKRAN.Button" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="ANA_EKRAN.Text" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="ANA_EKRAN.Text1" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="ANA_EKRAN.AnalogNumeric" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="ANA_EKRAN.Text2" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="ANA_EKRAN.AnalogNumeric2" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="ANA_EKRAN.AlarmViewer" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="ANA_EKRAN.AnalogNumeric1" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="ANA_EKRAN.AnalogNumeric3" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="ANA_EKRAN.Text3" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="ANA_EKRAN.Text4" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+      </Items>
+    </Category>
+    <Category Name="GlobalDataItem">
+      <Items>
+        <Item Target="ANA_EKRAN.AnalogNumeric" TargetProperty="Value" Source="Tags.TANK_SEVIYE_1" />
+        <Item Target="ANA_EKRAN.AnalogNumeric2" TargetProperty="Value" Source="Tags.TANK_DOLUM_DEGERI" />
+        <Item Target="ANA_EKRAN.AnalogNumeric1" TargetProperty="Value" Source="Tags.TANK_SEVIYE_2" />
+        <Item Target="ANA_EKRAN.AnalogNumeric3" TargetProperty="Value" Source="Tags.SystemTagSecond" />
+        <Item Target="ANA_EKRAN.Text4" TargetProperty="Value" Source="Tags.WEB_CONNECTOIN_STATUS" />
+        <Item Target="ANA_EKRAN.Text4" TargetProperty="Background" Source="Tags.WEB_CONNECTOIN_STATUS" />
+      </Items>
+    </Category>
+    <Category Name="IntegratorSwapActiveProjectAction">
+      <Items />
+    </Category>
+    <Category Name="InvalidAction">
+      <Items />
+    </Category>
+    <Category Name="Object">
+      <Items />
+    </Category>
+    <Category Name="Recipe">
+      <Items />
+    </Category>
+    <Category Name="Renderable">
+      <Items />
+    </Category>
+    <Category Name="Report">
+      <Items />
+    </Category>
+    <Category Name="Screen">
+      <Items>
+        <Item xsi:type="ActionItem" Target="ANA_EKRAN.Button" TargetProperty="Actions" Source="HAVA_YAPMAMA_ZAMANI" Event="Click" Action="Show Screen" Param="Default" />
+        <Item xsi:type="ScreenIDItem" ScreenID="">
+          <ScreenName>ANA_EKRAN</ScreenName>
+        </Item>
+        <Item xsi:type="ScreenObjectsCrossReferenceItem">
+          <ObjectsCount>12</ObjectsCount>
+          <ScreenName>ANA_EKRAN</ScreenName>
+        </Item>
+      </Items>
+    </Category>
+    <Category Name="Script">
+      <Items />
+    </Category>
+    <Category Name="StructuredTag">
+      <Items />
+    </Category>
+    <Category Name="Symbol">
+      <Items>
+        <Item xsi:type="SymbolItem" Target="ANA_EKRAN.Picture" Source="milangozlogo" Width="175" Height="57" IsAnimated="false" />
+      </Items>
+    </Category>
+    <Category Name="TextLibrary">
+      <Items />
+    </Category>
+    <Category Name="TrendViewer">
+      <Items />
+    </Category>
+    <Category Name="Uri">
+      <Items />
+    </Category>
+  </Categories>
+</CrossReferences>

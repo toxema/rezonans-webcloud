@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<CrossReferences xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="2.42.138.0">
+  <Categories>
+    <Category Name="AlarmViewer">
+      <Items />
+    </Category>
+    <Category Name="Alias">
+      <Items />
+    </Category>
+    <Category Name="AliasInstanceDataItem">
+      <Items />
+    </Category>
+    <Category Name="DatabaseService">
+      <Items />
+    </Category>
+    <Category Name="DatabaseViewer">
+      <Items />
+    </Category>
+    <Category Name="DataLogger">
+      <Items />
+    </Category>
+    <Category Name="Expression">
+      <Items />
+    </Category>
+    <Category Name="Font">
+      <Items>
+        <Item Target="WebSetting.Text" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="WebSetting.Text1" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="WebSetting.Text2" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="WebSetting.Text3" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="WebSetting.AnalogNumeric" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="WebSetting.Text4" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="WebSetting.AnalogNumeric1" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="WebSetting.Text5" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="WebSetting.AnalogNumeric2" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="WebSetting.Button1" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="WebSetting.changeButton" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="WebSetting.Text6" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="WebSetting.Button" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+      </Items>
+    </Category>
+    <Category Name="GlobalDataItem">
+      <Items>
+        <Item Target="WebSetting.Text1" TargetProperty="Value" Source="Tags.WEB_IOT_UID" />
+        <Item Target="WebSetting.AnalogNumeric" TargetProperty="Value" Source="Tags.WEB_PUBLISH_URL" />
+        <Item Target="WebSetting.AnalogNumeric1" TargetProperty="Value" Source="Tags.WEB_DEVICE_NAME" />
+        <Item Target="WebSetting.AnalogNumeric2" TargetProperty="Value" Source="Tags.WEB_FIRM_NAME" />
+        <Item Target="WebSetting.Text6" TargetProperty="Text" Source="Tags.WEB_RESPONCE" />
+      </Items>
+    </Category>
+    <Category Name="IntegratorSwapActiveProjectAction">
+      <Items />
+    </Category>
+    <Category Name="InvalidAction">
+      <Items />
+    </Category>
+    <Category Name="Object">
+      <Items />
+    </Category>
+    <Category Name="Recipe">
+      <Items />
+    </Category>
+    <Category Name="Renderable">
+      <Items>
+        <Item Target="WebSetting.Button1" Source="-1867145539_Normal.bmp" />
+        <Item Target="WebSetting.Button1" Source="-1867145539_Pressed.bmp" />
+        <Item Target="WebSetting.Button1" Source="-1867145539_Disabled.bmp" />
+        <Item Target="WebSetting.changeButton" Source="-1627653952_Normal.bmp" />
+        <Item Target="WebSetting.changeButton" Source="-1627653952_Pressed.bmp" />
+        <Item Target="WebSetting.changeButton" Source="-1627653952_Disabled.bmp" />
+        <Item Target="WebSetting.Button" Source="-1866219302_Normal.bmp" />
+        <Item Target="WebSetting.Button" Source="-1866219302_Pressed.bmp" />
+        <Item Target="WebSetting.Button" Source="-1866219302_Disabled.bmp" />
+      </Items>
+    </Category>
+    <Category Name="Report">
+      <Items />
+    </Category>
+    <Category Name="Screen">
+      <Items>
+        <Item xsi:type="ScreenIDItem" ScreenID="">
+          <ScreenName>WebSetting</ScreenName>
+        </Item>
+        <Item xsi:type="ScreenObjectsCrossReferenceItem">
+          <ObjectsCount>13</ObjectsCount>
+          <ScreenName>WebSetting</ScreenName>
+        </Item>
+      </Items>
+    </Category>
+    <Category Name="Script">
+      <Items>
+        <Item Target="WebSetting.Script.cs" Source="Tags.WEB_FIRM_NAME" />
+      </Items>
+    </Category>
+    <Category Name="StructuredTag">
+      <Items />
+    </Category>
+    <Category Name="Symbol">
+      <Items />
+    </Category>
+    <Category Name="TextLibrary">
+      <Items />
+    </Category>
+    <Category Name="TrendViewer">
+      <Items />
+    </Category>
+    <Category Name="Uri">
+      <Items />
+    </Category>
+  </Categories>
+</CrossReferences>

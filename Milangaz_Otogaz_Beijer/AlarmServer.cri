@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<CrossReferences xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="2.42.138.0">
+  <Categories>
+    <Category Name="Alias">
+      <Items />
+    </Category>
+    <Category Name="DatabaseService">
+      <Items />
+    </Category>
+    <Category Name="DataLogger">
+      <Items />
+    </Category>
+    <Category Name="Expression">
+      <Items />
+    </Category>
+    <Category Name="GlobalDataItem">
+      <Items>
+        <Item Target="AlarmServer.Default_AlarmItem0" TargetProperty="Value" Source="Tags.ACIL_STOP_ALARM" />
+        <Item Target="AlarmServer.Default_AlarmItem1" TargetProperty="Value" Source="Tags.DISPENSER_GAZ_KACAGI_ALARM" />
+        <Item Target="AlarmServer.Default_AlarmItem2" TargetProperty="Value" Source="Tags.TANK_SAHASI_GAZ_KACAGI_ALARM" />
+        <Item Target="AlarmServer.Default_AlarmItem3" TargetProperty="Value" Source="Tags.TANKER_DOLUM_ALARM" />
+        <Item Target="AlarmServer.Default_AlarmItem4" TargetProperty="Value" Source="Tags.KACAK_DOLUM_ALARM" />
+      </Items>
+    </Category>
+    <Category Name="IntegratorSwapActiveProjectAction">
+      <Items />
+    </Category>
+    <Category Name="InvalidAction">
+      <Items />
+    </Category>
+    <Category Name="Recipe">
+      <Items />
+    </Category>
+    <Category Name="Report">
+      <Items />
+    </Category>
+    <Category Name="Screen">
+      <Items />
+    </Category>
+    <Category Name="Script">
+      <Items />
+    </Category>
+    <Category Name="StructuredTag">
+      <Items>
+        <Item Target="AlarmServer.Default_AlarmItem0" TargetProperty="Value" Source="Tags.ACIL_STOP_ALARM" />
+        <Item Target="AlarmServer.Default_AlarmItem1" TargetProperty="Value" Source="Tags.DISPENSER_GAZ_KACAGI_ALARM" />
+        <Item Target="AlarmServer.Default_AlarmItem2" TargetProperty="Value" Source="Tags.TANK_SAHASI_GAZ_KACAGI_ALARM" />
+        <Item Target="AlarmServer.Default_AlarmItem3" TargetProperty="Value" Source="Tags.TANKER_DOLUM_ALARM" />
+        <Item Target="AlarmServer.Default_AlarmItem4" TargetProperty="Value" Source="Tags.KACAK_DOLUM_ALARM" />
+      </Items>
+    </Category>
+  </Categories>
+</CrossReferences>

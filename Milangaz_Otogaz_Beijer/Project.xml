@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project SchemaVersion="2.42.138.0" ProjectRevision="80">
+  <Guid>8a0c4987-aca6-44ef-90d0-c80cd78bd250</Guid>
+  <ProjectFiles>
+    <ProjectFile Name="ReferencedAssembly\SmartApi.dll" ModifiedDate="2019-08-03T11:00:03.7007949+03:00" Length="5120" />
+    <ProjectFile Name="ProjectImages.neo" ModifiedDate="2019-07-22T15:37:55.1105974+03:00" Length="456" />
+    <ProjectFile Name="Symbols\milangozlogo.png" ModifiedDate="2019-07-22T15:35:56.076789+03:00" Length="17178" />
+    <ProjectFile Name="SntpClientRootComponent.neo" ModifiedDate="2019-07-22T12:08:52.9499482+03:00" Length="470" />
+    <ProjectFile Name="ProjectConfiguration.neo" ModifiedDate="2019-07-22T12:08:53.0029512+03:00" Length="6390" />
+    <ProjectFile Name="Security.neo" ModifiedDate="2019-08-03T11:31:55.3997712+03:00" Length="451" />
+    <ProjectFile Name="Security.xml" ModifiedDate="2019-08-03T11:31:55.4007739+03:00" Length="698" />
+    <ProjectFile Name="LicenseRootComponent.neo" ModifiedDate="2019-07-22T12:09:00.3582076+03:00" Length="17964" />
+    <ProjectFile Name="Expressions.neo" ModifiedDate="2019-07-22T12:08:53.0749553+03:00" Length="459" />
+    <ProjectFile Name="MultipleLanguages.neo" ModifiedDate="2019-08-03T11:14:56.4595046+03:00" Length="24222" />
+    <ProjectFile Name="Tags.neo" ModifiedDate="2019-08-03T11:06:54.5340919+03:00" Length="20093" />
+    <ProjectFile Name="Tags.Script.cs" ModifiedDate="2019-08-03T11:06:54.5350536+03:00" Length="782" />
+    <ProjectFile Name="AlarmServer.neo" ModifiedDate="2019-07-22T14:33:05.8316125+03:00" Length="15767" />
+    <ProjectFile Name="ANA_EKRAN.neoxaml" ModifiedDate="2019-08-03T11:04:22.862581+03:00" Length="801" />
+    <ProjectFile Name="ANA_EKRAN.xaml" ModifiedDate="2019-08-03T11:04:22.9488142+03:00" Length="18934" />
+    <ProjectFile Name="HAVA_YAPMAMA_ZAMANI.neoxaml" ModifiedDate="2019-08-03T11:18:34.7914151+03:00" Length="811" />
+    <ProjectFile Name="HAVA_YAPMAMA_ZAMANI.xaml" ModifiedDate="2019-08-03T11:18:34.829522+03:00" Length="9346" />
+    <ProjectFile Name="WebSetting.neoxaml" ModifiedDate="2019-08-03T11:22:29.9047609+03:00" Length="802" />
+    <ProjectFile Name="WebSetting.Script.cs" ModifiedDate="2019-08-03T11:22:29.9047609+03:00" Length="1184" />
+    <ProjectFile Name="WebSetting.xaml" ModifiedDate="2019-08-03T11:22:29.9745614+03:00" Length="14256" />
+    <ProjectFile Name="Printer1.xml" ModifiedDate="2019-07-22T12:08:54.3650291+03:00" Length="850" />
+    <ProjectFile Name="Controller1.neo" ModifiedDate="2019-07-22T15:27:06.4184943+03:00" Length="3227" />
+    <ProjectFile Name="Updater.neo" ModifiedDate="2019-08-03T12:01:07.2759423+03:00" Length="571" />
+    <ProjectFile Name="Updater.Script.cs" ModifiedDate="2019-08-03T12:01:07.2769044+03:00" Length="2229" />
+  </ProjectFiles>
+</Project>

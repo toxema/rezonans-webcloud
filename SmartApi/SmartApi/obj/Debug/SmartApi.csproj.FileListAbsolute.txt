@@ -1,0 +1,10 @@
+C:\Users\yakut\Documents\Visual Studio 2008\Projects\SmartApi\SmartApi\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\yakut\Documents\Visual Studio 2008\Projects\SmartApi\SmartApi\bin\Debug\SmartApi.dll
+C:\Users\yakut\Documents\Visual Studio 2008\Projects\SmartApi\SmartApi\bin\Debug\SmartApi.pdb
+C:\Users\yakut\Documents\Visual Studio 2008\Projects\SmartApi\SmartApi\obj\Debug\SmartApi.dll
+C:\Users\yakut\Documents\Visual Studio 2008\Projects\SmartApi\SmartApi\obj\Debug\SmartApi.pdb
+F:\gitbox\rezonans-webcloud\SmartApi\SmartApi\bin\Debug\SmartApi.dll
+F:\gitbox\rezonans-webcloud\SmartApi\SmartApi\bin\Debug\SmartApi.pdb
+F:\gitbox\rezonans-webcloud\SmartApi\SmartApi\obj\Debug\ResolveAssemblyReference.cache
+F:\gitbox\rezonans-webcloud\SmartApi\SmartApi\obj\Debug\SmartApi.dll
+F:\gitbox\rezonans-webcloud\SmartApi\SmartApi\obj\Debug\SmartApi.pdb

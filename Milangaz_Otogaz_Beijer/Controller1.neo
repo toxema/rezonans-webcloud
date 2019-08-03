@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?neo version='2.42.138.0'?>
+<NeoItem d1p1:Serializer="Neo.ApplicationFramework.Common.Serialization.ObjectSerializer" xmlns:d1p1="urn:Neo.ApplicationFramework.Serializer">
+  <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.DataSourceContainer, ToolsCF, Version=2.42.138.0, Culture=neutral, PublicKeyToken=null" Driver="BES7IsoTcp_Pre2.S7IsoTcp_Pre2.1" Servername="Beijer.InprocessNeo.1" Node="" TargetInfoString="iXDeveloper;WinCe6;Beijer;Exter iX;X2 base 5;en;" d1p1:Site.Name="Controller1" ProjectGuid="8a0c4987-aca6-44ef-90d0-c80cd78bd250">
+    <OpcUaNamespaceInfos>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcUaClient.OpcUaNamespaceInfos, ToolsCF, Version=2.42.138.0, Culture=neutral, PublicKeyToken=null" />
+    </OpcUaNamespaceInfos>
+    <DataItems>
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.DataItem, ToolsCF, Version=2.42.138.0, Culture=neutral, PublicKeyToken=null" ItemID="MD84" DataType="DT_REAL4" d1p1:Site.Name="DataItem1" ProjectGuid="8a0c4987-aca6-44ef-90d0-c80cd78bd250" />
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.DataItem, ToolsCF, Version=2.42.138.0, Culture=neutral, PublicKeyToken=null" ItemID="MD92" DataType="DT_REAL4" d1p1:Site.Name="DataItem2" ProjectGuid="8a0c4987-aca6-44ef-90d0-c80cd78bd250" />
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.DataItem, ToolsCF, Version=2.42.138.0, Culture=neutral, PublicKeyToken=null" ItemID="MD20" DataType="DT_REAL4" d1p1:Site.Name="DataItem3" ProjectGuid="8a0c4987-aca6-44ef-90d0-c80cd78bd250" />
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.DataItem, ToolsCF, Version=2.42.138.0, Culture=neutral, PublicKeyToken=null" ItemID="MD118" DataType="DT_INTEGER4" d1p1:Site.Name="DataItem4" ProjectGuid="8a0c4987-aca6-44ef-90d0-c80cd78bd250" />
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.DataItem, ToolsCF, Version=2.42.138.0, Culture=neutral, PublicKeyToken=null" ItemID="MW100" DataType="DT_INTEGER2" d1p1:Site.Name="DataItem5" ProjectGuid="8a0c4987-aca6-44ef-90d0-c80cd78bd250" />
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.DataItem, ToolsCF, Version=2.42.138.0, Culture=neutral, PublicKeyToken=null" ItemID="MW102" DataType="DT_INTEGER2" d1p1:Site.Name="DataItem6" ProjectGuid="8a0c4987-aca6-44ef-90d0-c80cd78bd250" />
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.DataItem, ToolsCF, Version=2.42.138.0, Culture=neutral, PublicKeyToken=null" ItemID="MW104" DataType="DT_INTEGER2" d1p1:Site.Name="DataItem7" ProjectGuid="8a0c4987-aca6-44ef-90d0-c80cd78bd250" />
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.DataItem, ToolsCF, Version=2.42.138.0, Culture=neutral, PublicKeyToken=null" ItemID="MW106" DataType="DT_INTEGER2" d1p1:Site.Name="DataItem8" ProjectGuid="8a0c4987-aca6-44ef-90d0-c80cd78bd250" />
+      <Object d1p1:type="Neo.ApplicationFramework.Tools.OpcClient.DataItem, ToolsCF, Version=2.42.138.0, Culture=neutral, PublicKeyToken=null" ItemID="MW108" DataType="DT_INTEGER2" d1p1:Site.Name="DataItem9" ProjectGuid="8a0c4987-aca6-44ef-90d0-c80cd78bd250" />
+    </DataItems>
+  </Object>
+</NeoItem>
